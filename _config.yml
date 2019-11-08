@@ -96,7 +96,7 @@ paginate_path: "blog/page:num"
 authors:
   sg: # author-id
     name: Ste Griffiths
-    avatar: "assets/img/avatars/stegriff.jpg"
+    avatar: "assets/img/avatars/ste2.jpg"
     url: ""
   ml:
     name: Meredith Lind
@@ -108,9 +108,21 @@ authors:
     url: ""
   sm:
     name: Sacha Mitchell
+    avatar: "assets/img/avatars/andy.jpg"
+    url: ""
+  ts:
+    name: Tim Stalker
     avatar: "assets/img/avatars/jeff.jpg"
     url: ""
-
+  sh:
+    name: Sarah Handford
+    avatar: "assets/img/avatars/kaitlin.jpg"
+    url: ""
+  neh:
+    name: Naim El Harrati
+    avatar: "assets/img/avatars/dan.jpg"
+    url: ""
+    
 # PORTFOLIO
 # collections:
   # portfolio:
