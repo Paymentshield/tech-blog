@@ -12,6 +12,8 @@ I have no idea what I'm doing. Not yet at least, and that's exciting.
 
 Right now I'm at the beginning of my journey into the wonderful world of programming, and quite frankly sometimes it feels like I'm learning an alien language. It looks a bit like it too, but it sure is fascinating. Even though the syntax can be overwhelming, the thought process behind it all feels… right.
 
+Hi, I’m Toria, Content Marketing Executive here at Paymentshield. Marketers and Developers seem to me sometimes to be on the opposite end of the same cog, but it’s surprising how much the thinking behind everything has in common.
+
 When I first considered learning to code, I had the classic misconception that the most important thing would be to learn how to write riddles to make cool things happen. And whilst that's most definitely a major part of it, it's actually far more important to think the right way. 
 
 That's right, it's all about logical thinking. Now you, reader, might already know that. But when I first realised it, it was like a lightbulb went off and I could see past the shadows. Of course I don't know much about how to code yet, but you know what I can do? Solve puzzles, riddles, brain teasers. Those things are fun. They're also important.
