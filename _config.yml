@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://paymentshield.tech"
-title: Paymentshield Tech # site's title
-description: "The technology and techniques we use to build the shield at Paymentshield" # used by search engines
+title: Building the Shield # site's title
+description: "Building the Shield - the technical blog of Paymentshield" # used by search engines
 
 defaults:
   - scope:
@@ -13,12 +13,12 @@ defaults:
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  avatar: assets/img/psl-dev.png
+  avatar: assets/img/psl-logo.png
   color_image: /assets/img/lineart.png # In post when you set color
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Our blog about the tech and humans Building the Shield.
+  header_text: The techniques, the technology, and the team that build the shield at Paymentshield
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

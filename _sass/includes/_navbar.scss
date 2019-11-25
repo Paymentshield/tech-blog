@@ -47,7 +47,10 @@
     float: left;
     font-weight: bold;
     font-family: $font-family-logo;
-    font-size: 1.3em;
+    font-size: 1em;
+	padding-left: 1em;
+	line-height: 40px;
+	border-left: 1px solid $meta;
   }
 
   nav {
