@@ -6,6 +6,8 @@ thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 image: "assets/img/thumbnails/desk-messy.jpg" #seo tag
 tags: [Azure, Microservices, API]
 author-id: sg
+category: Development
+excerpt: Azure API Management lets us present a consistent view of our microservices APIs, but how can we securely and repeatably make changes to APIM environments?
 ---
 
 When we decided we wanted to build a new REST API, we made the decision to decompose the backend into separate services as much as was practical. This would hopefully make good use of Azure App Services as an auto-scaling infrastructure, and it would encourage us to decouple the API from underlying implementations - now and in the future. Like many organisations, we're on the microservices journey and this looked like a good start.

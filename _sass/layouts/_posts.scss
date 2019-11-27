@@ -52,6 +52,13 @@ header {
   text-transform: uppercase;
 }
 
+.category {
+  color: $meta;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0.5em 0;
+}
+
 /* --- Post info --- */
 .post-info {
   /* For border in author

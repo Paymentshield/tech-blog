@@ -6,6 +6,8 @@ thumbnail: "assets/img/pexels/computer.jpeg"
 image: "assets/img/pexels/computer.jpeg"
 tags: [Paymentshield, Teams, Culture]
 author-id: tp
+category: Culture
+excerpt: Toria explores the world of software development as a relative newcomer, and talks about how our teams work together to build cool stuff
 ---
 
 I have no idea what I'm doing. Not yet at least, and that's exciting.

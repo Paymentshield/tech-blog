@@ -6,6 +6,8 @@ thumbnail: "assets/img/thumbnails/book-glass.jpeg"
 image: "assets/img/thumbnails/book-glass.jpg"
 tags: [Analysis, Scrum]
 author-id: ts
+category: Culture
+excerpt: Tim discusses the multi-faceted roles of a business analyst and how good analysis can enrich our scrum teams
 ---
 
 If you asked me that question two years ago, I would have looked at you with my head sideways and a very confused look on my face… Agile? Scrum Team? Is that a Rugby reference?

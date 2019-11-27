@@ -6,6 +6,8 @@ thumbnail: "assets/img/pexels/computer.jpeg"
 image: "assets/img/pexels/computer.jpeg"
 tags: [Paymentshield, Teams, Culture]
 author-id: sh
+category: Culture
+excerpt: What was it like to make the evolution to Scrum for a team that had traditionally embraced waterfall techniques? One of our amazing analysts elaborates.
 ---
 
 I'm Sarah, I'm an IT Business Analyst (BA) at Paymentshield.  I've been with the company for about two and a half years but I've been a BA for many years – I'm very old!  The world is changing though.  We work in an Agile way here at Paymentshield and I'll be honest, I've been through a period of being a little bit out of my comfort zone at times.  

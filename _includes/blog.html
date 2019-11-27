@@ -10,6 +10,7 @@
         {% endif %}
         <span>
           <header>
+			{% if post.category %}<p class="category">{{ post.category }}</p>{% endif %}			
             <h1>
               <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title }}
