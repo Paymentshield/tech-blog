@@ -1,12 +1,14 @@
 <footer class="site-footer">
     <p class="text">
-        {{ site.theme_settings.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
-            <div class="footer-icons">
-                <ul>
-                <!-- Social icons from Font Awesome, if enabled -->
-                {% include icons.html %}
-                </ul>
-            </div>
+        &copy; Paymentshield Limited {{ "now" | date: "%Y" }}
+	</p>
+	<p class="text">
+		As the developers at Paymentshield, we're so passionate about we do that we decided to try stringing sentences together instead of code, to create this blog you see right here. We think it's nifty, and we hope you like it too.
+	</p>
+	<div class="footer-icons">
+		<ul>
+		<!-- Social icons from Font Awesome, if enabled -->
+		{% include icons.html %}
+		</ul>
+	</div>
 </footer>
-
-
