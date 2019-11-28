@@ -1,8 +1,12 @@
 <div class="posts">
     {% for post in paginator.posts %}
+	{% assign category_class = "" %}
+	{% if post.category %}
+	{% assign category_class = post.category | downcase %}
+	{% endif %}
     <div class="post-teaser">
         {% if post.thumbnail %}
-        <div class="post-img">
+        <div class="post-img {{category_class}}">
             <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
                 <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
             </a>

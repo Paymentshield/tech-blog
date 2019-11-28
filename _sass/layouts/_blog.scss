@@ -85,7 +85,20 @@
     .post-img {
       vertical-align: middle;
       overflow: hidden;
-
+	  border-bottom: 10px solid $theme-color;
+	  
+	  &.culture {
+	    border-color: $orange;
+	  }
+	  
+	  &.development {
+	    border-color: $theme-color;
+	  }
+	  
+	  &.infrastructure {
+	    border-color: $mint;
+	  }
+	  
       @media (min-width: $break) {
         height: 250px;
       }
@@ -100,7 +113,6 @@
         padding: 0;
         vertical-align: middle;
       }
-
     }
 
     .post-img img {
