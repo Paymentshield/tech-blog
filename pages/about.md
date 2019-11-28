@@ -3,12 +3,13 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+We are the technology arm of Paymentshield.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+At Paymentshield, we're one of the UK's leading insurance administrators and distributors. Working with some of the UK's best known insurers, we deliver premium products and services to financial advisers and their clients.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+To make all of this happen, we need a team of creative, innovative problem solvers. We write code and create digital experiences that make it as easy as possible for our customers to get protected, and we create the systems that make insurance happen in the background. We like to think of it as "building the shield".
+
+This blog is all about the team, the technology, and the techniques that make it all work. Hopefully you enjoy reading about our journey as much as we do creating it!
