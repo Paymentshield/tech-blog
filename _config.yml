@@ -1,8 +1,10 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://paymentshield.tech"
-title: Building the Shield # site's title
-description: "Building the Shield - the technical blog of Paymentshield" # used by search engines
+title: Paymentshield Tech # site's title
+description: "The technical blog of Paymentshield" # used by search engines
+
+permalink: /:year/:month/:day/:title
 
 defaults:
   - scope:
@@ -66,7 +68,7 @@ theme_settings:
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"

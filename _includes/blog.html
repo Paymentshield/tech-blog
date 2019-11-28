@@ -8,7 +8,7 @@
             </a>
         </div>
         {% endif %}
-        <span>
+        <span class="post-teaser-content">
           <header>
 			{% if post.category %}<p class="category">{{ post.category }}</p>{% endif %}			
             <h1>
@@ -27,7 +27,11 @@
                   {% endif %}
               </div>
           {% endif %}
-      </span>
+		  <div class="clear">
+			<button class="read-more">Read more</button>
+		  </div>
+        </span>
+	    <hr>
     </div>
     {% endfor %}
 </div>

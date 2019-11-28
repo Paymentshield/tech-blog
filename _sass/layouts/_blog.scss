@@ -1,3 +1,22 @@
+.read-more
+{
+  background: transparent;
+  border: 2px solid $theme-color;
+  color: $theme-color;
+  border-radius: 44px;
+  font-weight: bold;
+  text-transform: uppercase;
+  float: right;
+  padding: 8px 20px;
+  font-size: 80%;
+  margin: 1em 0;
+  
+  &:hover {
+    color: $theme-hover;
+	border-color: $theme-hover;
+  }
+}
+
 /* --- Header text feature --- */
 .call-out {
   @extend %padding-header;
@@ -50,17 +69,21 @@
     @extend %padding-post;
     width: 100%;
     margin-bottom: 0;
+	padding-bottom: 0;
     display: inline-block;
     background-size: $feature-image-size;
-    border-bottom: 1px solid $border-color;
-
+	
+	.post-teaser-content
+	{
+	  border-bottom: 1px solid transparent;
+	}
+		
     p a {
       @extend .body-link;
     }
 
     .post-img {
       vertical-align: middle;
-      border-radius: 10px;
       overflow: hidden;
 
       @media (min-width: $break) {
@@ -99,6 +122,6 @@
 
   .excerpt {
     margin-top: 1em;
-	font-size: 120%;
+	font-size: 110%;
   }
 }

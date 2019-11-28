@@ -3,9 +3,10 @@
   display: inline-block;
   text-align: center;
   width: 100%;
-  color: lighten($text-color, 24%);
+  background-color: $footer-color;
   font-size: 0.9em;
-
+  margin-top: 2em;
+  
   .footer-icons {
     ul {
       list-style: none;
