@@ -124,7 +124,11 @@ authors:
     name: Naim El Harrati
     avatar: "assets/img/avatars/dan.jpg"
     url: ""
-    
+  nc:
+    name: Nick Cowling
+    avatar: "assets/img/avatars/dan.jpg"
+    url: ""
+
 # PORTFOLIO
 # collections:
   # portfolio:
