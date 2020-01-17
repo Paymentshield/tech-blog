@@ -57,5 +57,18 @@ You can enter your key value pairs in here by the syntax: `key:value`. When usin
 
 Enter the API URL and then send your request.
 
+ > Tip: Quickly set your variables from the data in a response body by highlighting the data you want to be stored in an existing variable, right clicking, and selecting the environment and variable name, as pictured below
+
+![Save body value](/assets/img/postman/store-value.png)
+
 
 ## Wrap up
+
+Hopefully this quick guide has helped you with learning a bit more about:
+
+ * What Postman is and why we use it
+ * What environments are and why we should use them
+ * How to setup your environment
+ * How to actively apply environment variables within your requests
+ 
+Thanks for reading!
