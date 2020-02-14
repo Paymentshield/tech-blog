@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About]
 ---
 
-We are the technology arm of Paymentshield.
+We are the technology department of Paymentshield. Hi!
 
 At Paymentshield, we're one of the UK's leading insurance administrators and distributors. Working with some of the UK's best known insurers, we deliver premium products and services to financial advisers and their clients.
 

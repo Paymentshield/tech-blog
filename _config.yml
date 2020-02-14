@@ -10,7 +10,7 @@ defaults:
   - scope:
       path: "" # an empty string here means all necessary files are in the project
     values:
-      image: assets/img/psl-dev.png # seo tag
+      image: assets/img/headers/header-back.jpg
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -21,7 +21,7 @@ theme_settings:
 
   # Header and footer text
   header_text: The techniques, the technology, and the team that build the shield at Paymentshield
-  header_feature_image: assets/img/pexels/triangular.jpeg
+  header_feature_image: assets/img/headers/header-back.jpg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
@@ -119,10 +119,6 @@ authors:
   sh:
     name: Sarah Handford
     avatar: "assets/img/avatars/kaitlin.jpg"
-    url: ""
-  neh:
-    name: Naim El Harrati
-    avatar: "assets/img/avatars/dan.jpg"
     url: ""
   nc:
     name: Nick Cowling

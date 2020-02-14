@@ -1,9 +1,8 @@
 ---
 layout: post
 title: From the perspective of a n00b 
-feature-img: "assets/img/pexels/computer.jpeg"
-thumbnail: "assets/img/pexels/computer.jpeg"
-image: "assets/img/pexels/computer.jpeg"
+feature-img: "assets/img/headers/noob.jpg"
+thumbnail: "assets/img/thumbnails/noob.jpg"
 tags: [Paymentshield, Teams, Culture]
 author-id: tp
 category: Culture

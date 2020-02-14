@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Managing Azure APIM with git
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
-image: "assets/img/thumbnails/desk-messy.jpg" #seo tag
+feature-img: "assets/img/headers/cloud.jpg"
+thumbnail: "assets/img/thumbnails/cloud.jpg"
 tags: [Azure, Microservices, API]
 author-id: sg
 category: Development

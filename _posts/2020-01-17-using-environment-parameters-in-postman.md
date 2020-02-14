@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Using Environment Parameters in Postman
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
-image: "assets/img/thumbnails/desk-messy.jpg"
+feature-img: "assets/img/headers/postman.jpg"
+thumbnail: "assets/img/thumbnails/postman.jpg"
 tags: [Postman, API]
 author-id: nc
 category: Development

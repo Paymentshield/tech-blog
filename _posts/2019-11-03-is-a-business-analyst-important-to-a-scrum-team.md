@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Is a Business Analyst important to an Agile Scrum Team?
-feature-img: "assets/img/pexels/book-glass.jpeg"
-thumbnail: "assets/img/thumbnails/book-glass.jpeg"
-image: "assets/img/thumbnails/book-glass.jpg"
+feature-img: "assets/img/headers/scrum.jpg"
+thumbnail: "assets/img/thumbnails/scrum.jpg"
 tags: [Analysis, Scrum]
 author-id: ts
 category: Culture

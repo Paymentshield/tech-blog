@@ -5,8 +5,8 @@ layout: default
 <div class="home">
 
   <div id="main" class="call-out"
-       style="background-image: url('{{ site.theme_settings.header_feature_image | relative_url }}')">
-    <h1> {{ site.theme_settings.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+       style="background: url('{{ site.theme_settings.header_feature_image | relative_url }}') no-repeat center center fixed; background-size: cover">
+	   <img src="/assets/img/technology-team-techniques.png" alt="Header: Technology, team, techniques."/>
   </div>
 
   {% include blog.html %}

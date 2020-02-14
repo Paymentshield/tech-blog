@@ -1,9 +1,8 @@
 ---
 layout: post
-title: So, I can catch a rugby ball…right?
-feature-img: "assets/img/pexels/computer.jpeg"
-thumbnail: "assets/img/pexels/computer.jpeg"
-image: "assets/img/pexels/computer.jpeg"
+title: Out of the waterfall
+feature-img: "assets/img/headers/waterfall.jpg"
+thumbnail: "assets/img/thumbnails/waterfall.jpg"
 tags: [Paymentshield, Teams, Culture]
 author-id: sh
 category: Culture

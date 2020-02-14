@@ -3,6 +3,12 @@ h1.title {
   padding: $title-padding 0;
 }
 
+#main .post-info {
+  // @extend .header-txt-shadow;
+  padding: 0.5em 1em;
+  background: rgba(10, 10, 10, 0.5);
+}
+
 .subtitle {
   font-weight: normal;
   margin-top: 5px;
