@@ -98,31 +98,27 @@ paginate_path: "blog/page:num"
 authors:
   sg: # author-id
     name: Ste Griffiths
-    avatar: "assets/img/avatars/ste2.jpg"
-    url: ""
-  ml:
-    name: Meredith Lind
-    avatar: "assets/img/avatars/meredith.jpg"
+    avatar: "assets/img/avatars/ste.jpg"
     url: ""
   tp:
     name: Toria Pardoe
-    avatar: "assets/img/avatars/meredith.jpg"
+    avatar: "assets/img/avatars/toria.jpg"
     url: ""
   sm:
     name: Sacha Mitchell
-    avatar: "assets/img/avatars/andy.jpg"
+    avatar: "assets/img/avatars/anon.jpg"
     url: ""
   ts:
     name: Tim Stalker
-    avatar: "assets/img/avatars/jeff.jpg"
+    avatar: "assets/img/avatars/anon.jpg"
     url: ""
   sh:
     name: Sarah Handford
-    avatar: "assets/img/avatars/kaitlin.jpg"
+    avatar: "assets/img/avatars/sarah.jpg"
     url: ""
   nc:
     name: Nick Cowling
-    avatar: "assets/img/avatars/dan.jpg"
+    avatar: "assets/img/avatars/nick.jpg"
     url: ""
 
 # PORTFOLIO
